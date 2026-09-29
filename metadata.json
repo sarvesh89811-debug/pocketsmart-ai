@@ -1,0 +1,6 @@
+{
+  "name": "PocketSmart AI: Your Smart Budget & Recommendation Assistant",
+  "description": "GenAI-powered, cross-platform smart budget allocation & recommendation assistant for Home Interior, Party Planning, and Jewelry matching across Amazon, IKEA, Flipkart, Zomato, Swiggy, and OYO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
